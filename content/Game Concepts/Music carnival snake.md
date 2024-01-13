@@ -40,3 +40,4 @@ There is a spontaneous **carnival mood spreading** through the city with each st
 ### Streets 
 The space containing buildings and pavements. Pavements are the roards the player and the carnival can walk through. Each street can have up to 2 pavements that the carnival.  On the sides of the streets can be buildings. 
 ![[concept_street.png]]
+*will continue after lunch...*

@@ -1,4 +1,4 @@
-Originates from the thread [Forest Fire](https://discord.com/channels/1177382853101760634/1195390849010389042)
+Originates from the thread [Fighting the wildfire](https://discord.com/channels/1177382853101760634/1195390849010389042)
 ## Game pitch 
 
 You are in head of a fire department trying to get a wildfire under control. 

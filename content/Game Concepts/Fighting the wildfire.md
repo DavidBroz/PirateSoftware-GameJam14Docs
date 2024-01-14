@@ -1,3 +1,7 @@
+---
+title: Fighting the wildfire - Concept
+---
+
 Originates from the thread [Fighting the wildfire](https://discord.com/channels/1177382853101760634/1195390849010389042)
 ## Game pitch 
 

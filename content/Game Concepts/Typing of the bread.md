@@ -1,3 +1,7 @@
+---
+title: Typing of the bread - Concept
+---
+
 Originates from the thread [Typing of the bread](https://discord.com/channels/1177382853101760634/1195417587761287299)
 
 ## Game pitch 

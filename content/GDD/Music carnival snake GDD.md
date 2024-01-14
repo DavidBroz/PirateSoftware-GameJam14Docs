@@ -1,7 +1,6 @@
 ---
-title: Carnival Game
+title: Carnival Game - GDD
 ---
-Originates from the thread [Music carnival snake](https://discord.com/channels/1177382853101760634/1195396238615523378)
 
 ## Game pitch 
 

@@ -33,11 +33,12 @@ Snake, puzzle, casual
 
 There is a spontaneous **carnival mood spreading** through the city with each street one by one joining in as the player visits them. 
 
-
 ## Primary Mechanics
 
 ### Streets 
-The space containing buildings and pavements. Pavements are the roads the player and the carnival can walk through. Each street can have up to 2 pavements that the carnival.  On the sides of the streets can be buildings. 
+The space containing buildings and pavements. Pavements are the roads the player and the carnival can walk through. Each street can have up to 2 pavements that the carnival.  On the sides of the streets can be buildings.
+
+The detail to movement mechanics can found in [[Movement]]. 
 ![[concept_street.png]]
 ### Buildings 
 Buildings are the goal of the game. When the trumpet guy walks pass a building, the building turns festive (marking as collected) and a person will join the carnival, following the player.

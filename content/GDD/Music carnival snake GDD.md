@@ -38,7 +38,7 @@ There is a spontaneous **carnival mood spreading** through the city with each st
 ### Streets
 | Description | **Mockup illustration** |
 | :--: | :--: |
-| The space containing buildings and pavements. Pavements are the roads the player and the carnival can walk through. Each street can have up to 2 pavements that the carnival.  On the sides of the streets can be buildings. | ![[concept_street.png\|350]] |
+| The space containing buildings and pavements. Pavements are the roads the player and the carnival can walk on. Each street can have up to 2 pavements. On the sides of the streets can be buildings. | ![[concept_street.png\|350]] |
 
 The detail to movement mechanics can found in [[Movement]]. 
 ### Crosswalk
@@ -97,3 +97,5 @@ Yet be decided.
 You manage to collect all the buildings.
 # Lose condition
 You collide with the carnival tail.
+
+

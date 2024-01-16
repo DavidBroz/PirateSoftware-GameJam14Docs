@@ -49,7 +49,7 @@ The detail to movement mechanics can found in [[Movement]].
 | Description | **Mockup illustration** |
 | :--: | :--: |
 | Buildings are the goal of the game. When the trumpet guy walks pass a building, the building turns festive (marking as collected) and a person will join the carnival, following the player. | ![[concept_Buildings.png\|350]] |
-
+For more details about buildings, see [[Buildings]].
 ### Carnival tail
 | Description | **Mockup illustration** |
 | :--: | :--: |
